@@ -27,7 +27,7 @@ We interact with the system via a file-based input system, i.e. it should accept
 Solution to Parking Lot system Design problem statement:- 
 
 * Create a parking lot with 'n' number of slots, and always fill the slots in First In First Come Basis
-* maintaing track of the slots whenever it get's free, allocate only the slot with min value from entry point using sort **O(nlog(n)** 
+* maintaing track of the slots whenever it get's free, allocate only the slot with min value from entry point using sorting **O(nlog(n)** 
 
 ![Implementation of System Design](https://github.com/ajinkyajawale14/SquadStack-Parkinglot-System-Design/blob/main/SquadStack%20Parking%20Lot.png)
 
