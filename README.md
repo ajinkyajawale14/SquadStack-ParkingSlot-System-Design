@@ -49,4 +49,7 @@ using Python 3 for the implementation
   2. To Run all the input put command in terminal $ ./squadstack_parking_lot_bash inputs.txt
   3. To Run Indivisual commands python src/parking_lot.py
  
+ [Required Link 1](https://github.com/ajinkyajawale14/SquadStack-Parkinglot-System-Design/blob/main/Screenshot%202020-10-12%20at%203.31.16%20AM.png)
+ [Required Link 2](https://github.com/ajinkyajawale14/SquadStack-Parkinglot-System-Design/blob/main/Screenshot%202020-10-12%20at%203.31.41%20AM.png)
+ 
  Thanks :)
